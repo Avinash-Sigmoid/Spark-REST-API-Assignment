@@ -1,3 +1,8 @@
+# Give Proper variable name.
+#instead of x and y proper variable names can be given for better understanding.
+#Add comments where ever possible.
+
+
 from flask import Flask,jsonify,json
 from pyspark.sql import SparkSession
 from flask import Response
